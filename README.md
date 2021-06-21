@@ -4,4 +4,6 @@
   <img src="public/proffyreadme.png">
 </p>
 
-Como usar?
+# Sobre
+
+Projeto desenvolvido na Next Level Week 2, da Rocketseat
