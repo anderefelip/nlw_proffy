@@ -1,0 +1,7 @@
+npm init -y : começar um projeto na main das pastas
+
+habilitar depois live server
+
+npm run dev para o node js
+
+e abrir o servidor http://127.0.0.1:5500
